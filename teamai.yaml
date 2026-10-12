@@ -1,6 +1,6 @@
 team: my-team
 description: TeamAI shared resources
-repo: https://github.com/teamai-hub/teamai-cli-dev.git
+repo: https://github.com/guoweidong1102/teamai-cli-dev.git
 provider: github
 sharing:
   rules:

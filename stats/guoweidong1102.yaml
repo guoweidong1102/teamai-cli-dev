@@ -1,47 +1,47 @@
 username: guoweidong1102
-updatedAt: 2026-10-13T07:04:16.688Z
+updatedAt: 2026-10-14T00:50:25.375Z
 skills:
   teamai:
-    count: 32
+    count: 44
     lastUsed: 2026-10-13T02:24:48.857Z
   my-knowledge-base:
-    count: 7
-    lastUsed: 2026-10-12T14:25:40.839Z
+    count: 11
+    lastUsed: 2026-10-13T13:55:18.875Z
   i-have-adhd:
-    count: 19
+    count: 27
     lastUsed: 2026-10-13T02:40:42.912Z
   find-skills:
-    count: 4
+    count: 6
     lastUsed: 2026-10-13T02:40:42.911Z
 interventions:
-  sessions: 153
+  sessions: 208
   interrupt: 0
   toolReject: 0
   correction: 0
-prompts: 288
+prompts: 413
 tokens:
-  input: 2902670
-  output: 165052
-  cacheRead: 20702592
+  input: 4933102
+  output: 263716
+  cacheRead: 40754816
   cacheCreation: 0
 daily:
   2026-10-12:
-    sessionsEnded: 110
-    sessionsSucceeded: 110
-    promptTurns: 176
-    durationMs: 28193712
+    sessionsEnded: 138
+    sessionsSucceeded: 138
+    promptTurns: 222
+    durationMs: 35560770
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
-    cacheReadTokens: 12429952
-    cacheEligibleInputTokens: 14614435
+    cacheReadTokens: 15936896
+    cacheEligibleInputTokens: 18715437
   2026-10-13:
-    sessionsEnded: 19
-    sessionsSucceeded: 19
-    promptTurns: 86
-    durationMs: 16506355
+    sessionsEnded: 32
+    sessionsSucceeded: 32
+    promptTurns: 149
+    durationMs: 30646675
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
-    cacheReadTokens: 8272640
-    cacheEligibleInputTokens: 8990827
+    cacheReadTokens: 24817920
+    cacheEligibleInputTokens: 26972481

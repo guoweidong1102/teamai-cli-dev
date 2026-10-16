@@ -1,75 +1,75 @@
 username: guoweidong1102
-updatedAt: 2026-10-16T02:29:29.350Z
+updatedAt: 2026-10-16T02:49:51.440Z
 skills:
   teamai:
-    count: 68
+    count: 74
     lastUsed: 2026-10-13T02:24:48.857Z
   my-knowledge-base:
-    count: 19
+    count: 21
     lastUsed: 2026-10-13T13:55:18.875Z
   i-have-adhd:
-    count: 43
+    count: 47
     lastUsed: 2026-10-13T02:40:42.912Z
   find-skills:
-    count: 10
+    count: 11
     lastUsed: 2026-10-13T02:40:42.911Z
 interventions:
-  sessions: 343
+  sessions: 379
   interrupt: 0
   toolReject: 0
-  correction: 8
-prompts: 739
+  correction: 10
+prompts: 833
 tokens:
-  input: 8993966
-  output: 461044
-  cacheRead: 80859264
+  input: 10009182
+  output: 510376
+  cacheRead: 90885376
   cacheCreation: 0
 daily:
   2026-10-12:
-    sessionsEnded: 194
-    sessionsSucceeded: 194
-    promptTurns: 314
-    durationMs: 50294886
+    sessionsEnded: 208
+    sessionsSucceeded: 208
+    promptTurns: 337
+    durationMs: 53978415
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
-    cacheReadTokens: 22950784
-    cacheEligibleInputTokens: 26917441
+    cacheReadTokens: 24704256
+    cacheEligibleInputTokens: 28967942
   2026-10-13:
-    sessionsEnded: 60
-    sessionsSucceeded: 60
-    promptTurns: 286
-    durationMs: 61026771
+    sessionsEnded: 67
+    sessionsSucceeded: 67
+    promptTurns: 328
+    durationMs: 69437232
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
-    cacheReadTokens: 57908480
-    cacheEligibleInputTokens: 62935789
+    cacheReadTokens: 66181120
+    cacheEligibleInputTokens: 71926616
   2026-10-14:
-    sessionsEnded: 16
-    sessionsSucceeded: 12
-    promptTurns: 57
-    durationMs: 11126516
-    sessionsCorrected: 4
+    sessionsEnded: 20
+    sessionsSucceeded: 15
+    promptTurns: 73
+    durationMs: 14431117
+    sessionsCorrected: 5
     pricedRequests: 0
     costMicros: 0
     cacheReadTokens: 0
     cacheEligibleInputTokens: 0
   2026-10-15:
-    sessionsEnded: 3
-    sessionsSucceeded: 3
-    promptTurns: 3
-    durationMs: 171042
+    sessionsEnded: 4
+    sessionsSucceeded: 4
+    promptTurns: 4
+    durationMs: 228056
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
     cacheReadTokens: 0
     cacheEligibleInputTokens: 0
   2026-10-16:
-    sessionsEnded: 1
-    sessionsSucceeded: 1
-    promptTurns: 3
-    durationMs: 26858
+    sessionsEnded: 2
+    sessionsSucceeded: 2
+    promptTurns: 6
+    durationMs: 53716
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0

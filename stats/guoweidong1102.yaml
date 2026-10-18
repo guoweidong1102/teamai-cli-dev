@@ -1,12 +1,12 @@
 username: guoweidong1102
-updatedAt: 2026-10-16T14:12:59.022Z
+updatedAt: 2026-10-18T01:13:29.928Z
 skills:
   teamai:
     count: 80
     lastUsed: 2026-10-13T02:24:48.857Z
   my-knowledge-base:
-    count: 23
-    lastUsed: 2026-10-13T13:55:18.875Z
+    count: 24
+    lastUsed: 2026-10-17T14:15:57.430Z
   i-have-adhd:
     count: 51
     lastUsed: 2026-10-13T02:40:42.912Z
@@ -14,11 +14,11 @@ skills:
     count: 12
     lastUsed: 2026-10-13T02:40:42.911Z
 interventions:
-  sessions: 416
+  sessions: 420
   interrupt: 0
   toolReject: 0
   correction: 13
-prompts: 935
+prompts: 938
 tokens:
   input: 11024398
   output: 559708
@@ -69,8 +69,18 @@ daily:
     sessionsEnded: 4
     sessionsSucceeded: 3
     promptTurns: 11
-    durationMs: 106495
+    durationMs: 109362
     sessionsCorrected: 1
+    pricedRequests: 0
+    costMicros: 0
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+  2026-10-17:
+    sessionsEnded: 3
+    sessionsSucceeded: 3
+    promptTurns: 3
+    durationMs: 195689
+    sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
     cacheReadTokens: 0

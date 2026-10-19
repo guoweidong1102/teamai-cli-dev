@@ -1,107 +1,107 @@
 username: guoweidong1102
-updatedAt: 2026-10-19T03:15:21.732Z
+updatedAt: 2026-10-19T05:18:34.062Z
 skills:
   teamai:
-    count: 110
+    count: 116
     lastUsed: 2026-10-13T02:24:48.857Z
   my-knowledge-base:
-    count: 42
+    count: 46
     lastUsed: 2026-10-18T13:55:42.042Z
   i-have-adhd:
-    count: 83
+    count: 89
     lastUsed: 2026-10-18T03:39:10.276Z
   find-skills:
-    count: 17
+    count: 18
     lastUsed: 2026-10-13T02:40:42.911Z
 interventions:
-  sessions: 634
+  sessions: 680
   interrupt: 0
   toolReject: 0
-  correction: 48
-prompts: 1780
+  correction: 55
+prompts: 1964
 tokens:
-  input: 16100478
-  output: 806368
-  cacheRead: 151042048
+  input: 17250493
+  output: 861969
+  cacheRead: 161920896
   cacheCreation: 0
 daily:
   2026-10-12:
-    sessionsEnded: 292
-    sessionsSucceeded: 292
-    promptTurns: 475
-    durationMs: 76079589
+    sessionsEnded: 306
+    sessionsSucceeded: 306
+    promptTurns: 498
+    durationMs: 79763118
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
-    cacheReadTokens: 35225088
-    cacheEligibleInputTokens: 41270948
+    cacheReadTokens: 36978560
+    cacheEligibleInputTokens: 43321449
   2026-10-13:
-    sessionsEnded: 109
-    sessionsSucceeded: 109
-    promptTurns: 616
-    durationMs: 123559356
+    sessionsEnded: 116
+    sessionsSucceeded: 116
+    promptTurns: 664
+    durationMs: 132579710
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
-    cacheReadTokens: 115816960
-    cacheEligibleInputTokens: 125871578
+    cacheReadTokens: 124089600
+    cacheEligibleInputTokens: 134862405
   2026-10-14:
-    sessionsEnded: 44
-    sessionsSucceeded: 27
-    promptTurns: 471
-    durationMs: 111231610
-    sessionsCorrected: 17
+    sessionsEnded: 48
+    sessionsSucceeded: 29
+    promptTurns: 559
+    durationMs: 133849707
+    sessionsCorrected: 19
     pricedRequests: 0
     costMicros: 0
     cacheReadTokens: 0
     cacheEligibleInputTokens: 0
   2026-10-15:
-    sessionsEnded: 10
-    sessionsSucceeded: 10
-    promptTurns: 10
-    durationMs: 570140
+    sessionsEnded: 11
+    sessionsSucceeded: 11
+    promptTurns: 11
+    durationMs: 627154
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
     cacheReadTokens: 0
     cacheEligibleInputTokens: 0
   2026-10-16:
-    sessionsEnded: 14
-    sessionsSucceeded: 8
-    promptTurns: 36
-    durationMs: 387592
-    sessionsCorrected: 6
+    sessionsEnded: 16
+    sessionsSucceeded: 9
+    promptTurns: 41
+    durationMs: 443238
+    sessionsCorrected: 7
     pricedRequests: 0
     costMicros: 0
     cacheReadTokens: 0
     cacheEligibleInputTokens: 0
   2026-10-17:
-    sessionsEnded: 18
-    sessionsSucceeded: 18
-    promptTurns: 18
-    durationMs: 1174134
+    sessionsEnded: 21
+    sessionsSucceeded: 21
+    promptTurns: 21
+    durationMs: 1369823
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
     cacheReadTokens: 0
     cacheEligibleInputTokens: 0
   2026-10-18:
-    sessionsEnded: 9
-    sessionsSucceeded: 9
-    promptTurns: 9
-    durationMs: 1243386
+    sessionsEnded: 11
+    sessionsSucceeded: 11
+    promptTurns: 11
+    durationMs: 1656888
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
     cacheReadTokens: 0
     cacheEligibleInputTokens: 0
   2026-10-19:
-    sessionsEnded: 2
-    sessionsSucceeded: 2
-    promptTurns: 2
-    durationMs: 25870
+    sessionsEnded: 4
+    sessionsSucceeded: 4
+    promptTurns: 5
+    durationMs: 327589
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
-    cacheReadTokens: 0
-    cacheEligibleInputTokens: 0
+    cacheReadTokens: 852736
+    cacheEligibleInputTokens: 987535

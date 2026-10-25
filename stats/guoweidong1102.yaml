@@ -1,51 +1,51 @@
 username: guoweidong1102
-updatedAt: 2026-10-24T14:00:41.479Z
+updatedAt: 2026-10-25T04:25:51.281Z
 skills:
   teamai:
-    count: 308
+    count: 314
     lastUsed: 2026-10-13T02:24:48.857Z
   my-knowledge-base:
-    count: 224
-    lastUsed: 2026-10-23T13:55:28.399Z
+    count: 233
+    lastUsed: 2026-10-24T14:00:39.995Z
   i-have-adhd:
-    count: 448
+    count: 462
     lastUsed: 2026-10-23T04:13:32.241Z
   find-skills:
-    count: 50
+    count: 51
     lastUsed: 2026-10-13T02:40:42.911Z
   agent-browser:
-    count: 30
+    count: 31
     lastUsed: 2026-10-19T05:40:44.039Z
   skills-security-check:
-    count: 22
+    count: 23
     lastUsed: 2026-10-20T02:36:16.215Z
   cloudapi2-sdk-core:
-    count: 22
+    count: 23
     lastUsed: 2026-10-20T02:39:04.204Z
   cloudapi2-ui:
-    count: 22
+    count: 23
     lastUsed: 2026-10-20T02:42:24.728Z
   cloudapi2-skeleton-deploy:
-    count: 31
+    count: 33
     lastUsed: 2026-10-22T06:30:22.145Z
   tencent-docs-routing:
-    count: 17
+    count: 18
     lastUsed: 2026-10-21T02:05:58.145Z
   tencent-local-office-edit:
-    count: 17
+    count: 18
     lastUsed: 2026-10-21T02:06:00.557Z
   Users:
-    count: 50
+    count: 55
     lastUsed: 2026-10-23T04:08:58.994Z
   root:
-    count: 8
+    count: 9
     lastUsed: 2026-10-22T09:40:57.455Z
 interventions:
-  sessions: 2447
+  sessions: 2450
   interrupt: 0
   toolReject: 0
   correction: 283
-prompts: 10106
+prompts: 10109
 tokens:
   input: 73942936
   output: 3161622
@@ -173,10 +173,20 @@ daily:
     cacheReadTokens: 0
     cacheEligibleInputTokens: 0
   2026-10-24:
-    sessionsEnded: 3
-    sessionsSucceeded: 3
-    promptTurns: 3
-    durationMs: 366255
+    sessionsEnded: 4
+    sessionsSucceeded: 4
+    promptTurns: 4
+    durationMs: 488340
+    sessionsCorrected: 0
+    pricedRequests: 0
+    costMicros: 0
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+  2026-10-25:
+    sessionsEnded: 2
+    sessionsSucceeded: 2
+    promptTurns: 2
+    durationMs: 255056
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0

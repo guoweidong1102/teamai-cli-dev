@@ -1,51 +1,51 @@
 username: guoweidong1102
-updatedAt: 2026-10-25T04:25:51.281Z
+updatedAt: 2026-10-26T01:36:23.137Z
 skills:
   teamai:
-    count: 314
+    count: 320
     lastUsed: 2026-10-13T02:24:48.857Z
   my-knowledge-base:
-    count: 233
-    lastUsed: 2026-10-24T14:00:39.995Z
+    count: 243
+    lastUsed: 2026-10-25T14:00:23.931Z
   i-have-adhd:
-    count: 462
+    count: 476
     lastUsed: 2026-10-23T04:13:32.241Z
   find-skills:
-    count: 51
+    count: 52
     lastUsed: 2026-10-13T02:40:42.911Z
   agent-browser:
-    count: 31
+    count: 32
     lastUsed: 2026-10-19T05:40:44.039Z
   skills-security-check:
-    count: 23
+    count: 24
     lastUsed: 2026-10-20T02:36:16.215Z
   cloudapi2-sdk-core:
-    count: 23
+    count: 24
     lastUsed: 2026-10-20T02:39:04.204Z
   cloudapi2-ui:
-    count: 23
+    count: 24
     lastUsed: 2026-10-20T02:42:24.728Z
   cloudapi2-skeleton-deploy:
-    count: 33
+    count: 35
     lastUsed: 2026-10-22T06:30:22.145Z
   tencent-docs-routing:
-    count: 18
+    count: 19
     lastUsed: 2026-10-21T02:05:58.145Z
   tencent-local-office-edit:
-    count: 18
+    count: 19
     lastUsed: 2026-10-21T02:06:00.557Z
   Users:
-    count: 55
+    count: 60
     lastUsed: 2026-10-23T04:08:58.994Z
   root:
-    count: 9
+    count: 10
     lastUsed: 2026-10-22T09:40:57.455Z
 interventions:
-  sessions: 2450
+  sessions: 2456
   interrupt: 0
   toolReject: 0
   correction: 283
-prompts: 10109
+prompts: 10120
 tokens:
   input: 73942936
   output: 3161622
@@ -173,20 +173,20 @@ daily:
     cacheReadTokens: 0
     cacheEligibleInputTokens: 0
   2026-10-24:
-    sessionsEnded: 4
-    sessionsSucceeded: 4
-    promptTurns: 4
-    durationMs: 488340
+    sessionsEnded: 5
+    sessionsSucceeded: 5
+    promptTurns: 5
+    durationMs: 610425
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
     cacheReadTokens: 0
     cacheEligibleInputTokens: 0
   2026-10-25:
-    sessionsEnded: 2
-    sessionsSucceeded: 2
-    promptTurns: 2
-    durationMs: 255056
+    sessionsEnded: 5
+    sessionsSucceeded: 5
+    promptTurns: 10
+    durationMs: 2966856
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0

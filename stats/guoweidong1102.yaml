@@ -1,14 +1,14 @@
 username: guoweidong1102
-updatedAt: 2026-10-27T02:25:03.886Z
+updatedAt: 2026-10-27T02:38:51.375Z
 skills:
   teamai:
-    count: 356
+    count: 362
     lastUsed: 2026-10-13T02:24:48.857Z
   my-knowledge-base:
-    count: 306
+    count: 317
     lastUsed: 2026-10-26T14:00:46.549Z
   i-have-adhd:
-    count: 560
+    count: 574
     lastUsed: 2026-10-23T04:13:32.241Z
   find-skills:
     count: 58
@@ -41,14 +41,14 @@ skills:
     count: 16
     lastUsed: 2026-10-22T09:40:57.455Z
 interventions:
-  sessions: 2514
+  sessions: 2527
   interrupt: 0
   toolReject: 0
   correction: 283
-prompts: 10265
+prompts: 10302
 tokens:
-  input: 74034916
-  output: 3161706
+  input: 74065576
+  output: 3161734
   cacheRead: 604800256
   cacheCreation: 0
 daily:
@@ -173,40 +173,40 @@ daily:
     cacheReadTokens: 0
     cacheEligibleInputTokens: 0
   2026-10-24:
-    sessionsEnded: 11
-    sessionsSucceeded: 11
-    promptTurns: 11
-    durationMs: 1342935
+    sessionsEnded: 12
+    sessionsSucceeded: 12
+    promptTurns: 12
+    durationMs: 1465020
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
     cacheReadTokens: 0
     cacheEligibleInputTokens: 0
   2026-10-25:
-    sessionsEnded: 23
-    sessionsSucceeded: 23
-    promptTurns: 58
-    durationMs: 19237656
+    sessionsEnded: 26
+    sessionsSucceeded: 26
+    promptTurns: 66
+    durationMs: 21949456
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
     cacheReadTokens: 0
     cacheEligibleInputTokens: 0
   2026-10-26:
-    sessionsEnded: 21
-    sessionsSucceeded: 21
-    promptTurns: 72
-    durationMs: 6312636
+    sessionsEnded: 26
+    sessionsSucceeded: 26
+    promptTurns: 89
+    durationMs: 8041731
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
     cacheReadTokens: 0
-    cacheEligibleInputTokens: 91980
+    cacheEligibleInputTokens: 122640
   2026-10-27:
-    sessionsEnded: 4
-    sessionsSucceeded: 4
-    promptTurns: 10
-    durationMs: 1273685
+    sessionsEnded: 6
+    sessionsSucceeded: 6
+    promptTurns: 19
+    durationMs: 2462202
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0

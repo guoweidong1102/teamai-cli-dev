@@ -1,54 +1,54 @@
 username: guoweidong1102
-updatedAt: 2026-10-27T01:54:38.103Z
+updatedAt: 2026-10-27T02:25:03.886Z
 skills:
   teamai:
-    count: 350
+    count: 356
     lastUsed: 2026-10-13T02:24:48.857Z
   my-knowledge-base:
-    count: 295
+    count: 306
     lastUsed: 2026-10-26T14:00:46.549Z
   i-have-adhd:
-    count: 546
+    count: 560
     lastUsed: 2026-10-23T04:13:32.241Z
   find-skills:
-    count: 57
+    count: 58
     lastUsed: 2026-10-13T02:40:42.911Z
   agent-browser:
-    count: 37
+    count: 38
     lastUsed: 2026-10-19T05:40:44.039Z
   skills-security-check:
-    count: 29
+    count: 30
     lastUsed: 2026-10-20T02:36:16.215Z
   cloudapi2-sdk-core:
-    count: 29
+    count: 30
     lastUsed: 2026-10-20T02:39:04.204Z
   cloudapi2-ui:
-    count: 29
+    count: 30
     lastUsed: 2026-10-20T02:42:24.728Z
   cloudapi2-skeleton-deploy:
-    count: 45
+    count: 47
     lastUsed: 2026-10-22T06:30:22.145Z
   tencent-docs-routing:
-    count: 24
+    count: 25
     lastUsed: 2026-10-21T02:05:58.145Z
   tencent-local-office-edit:
-    count: 24
+    count: 25
     lastUsed: 2026-10-21T02:06:00.557Z
   Users:
-    count: 85
+    count: 90
     lastUsed: 2026-10-23T04:08:58.994Z
   root:
-    count: 15
+    count: 16
     lastUsed: 2026-10-22T09:40:57.455Z
 interventions:
-  sessions: 2502
+  sessions: 2514
   interrupt: 0
   toolReject: 0
   correction: 283
-prompts: 10232
+prompts: 10265
 tokens:
-  input: 74004256
-  output: 3161678
+  input: 74034916
+  output: 3161706
   cacheRead: 604800256
   cacheCreation: 0
 daily:
@@ -173,40 +173,40 @@ daily:
     cacheReadTokens: 0
     cacheEligibleInputTokens: 0
   2026-10-24:
-    sessionsEnded: 10
-    sessionsSucceeded: 10
-    promptTurns: 10
-    durationMs: 1220850
+    sessionsEnded: 11
+    sessionsSucceeded: 11
+    promptTurns: 11
+    durationMs: 1342935
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
     cacheReadTokens: 0
     cacheEligibleInputTokens: 0
   2026-10-25:
-    sessionsEnded: 20
-    sessionsSucceeded: 20
-    promptTurns: 50
-    durationMs: 16525856
+    sessionsEnded: 23
+    sessionsSucceeded: 23
+    promptTurns: 58
+    durationMs: 19237656
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
     cacheReadTokens: 0
     cacheEligibleInputTokens: 0
   2026-10-26:
-    sessionsEnded: 16
-    sessionsSucceeded: 16
-    promptTurns: 55
-    durationMs: 4583541
+    sessionsEnded: 21
+    sessionsSucceeded: 21
+    promptTurns: 72
+    durationMs: 6312636
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
     cacheReadTokens: 0
-    cacheEligibleInputTokens: 61320
+    cacheEligibleInputTokens: 91980
   2026-10-27:
-    sessionsEnded: 2
-    sessionsSucceeded: 2
-    promptTurns: 4
-    durationMs: 430226
+    sessionsEnded: 4
+    sessionsSucceeded: 4
+    promptTurns: 10
+    durationMs: 1273685
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0

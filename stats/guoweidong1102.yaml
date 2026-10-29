@@ -1,11 +1,11 @@
 username: guoweidong1102
-updatedAt: 2026-10-29T02:50:16.413Z
+updatedAt: 2026-10-29T07:32:14.675Z
 skills:
   teamai:
     count: 362
     lastUsed: 2026-10-13T02:24:48.857Z
   my-knowledge-base:
-    count: 320
+    count: 322
     lastUsed: 2026-10-28T14:00:25.957Z
   i-have-adhd:
     count: 574
@@ -35,17 +35,20 @@ skills:
     count: 25
     lastUsed: 2026-10-21T02:06:00.557Z
   Users:
-    count: 90
-    lastUsed: 2026-10-23T04:08:58.994Z
+    count: 91
+    lastUsed: 2026-10-29T06:39:46.379Z
   root:
     count: 16
     lastUsed: 2026-10-22T09:40:57.455Z
+  opt:
+    count: 1
+    lastUsed: 2026-10-29T07:31:57.942Z
 interventions:
-  sessions: 2544
+  sessions: 2552
   interrupt: 0
   toolReject: 0
   correction: 283
-prompts: 10378
+prompts: 10414
 tokens:
   input: 74065576
   output: 3161734
@@ -185,8 +188,8 @@ daily:
   2026-10-25:
     sessionsEnded: 26
     sessionsSucceeded: 26
-    promptTurns: 77
-    durationMs: 25714189
+    promptTurns: 84
+    durationMs: 27951873
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
@@ -203,30 +206,30 @@ daily:
     cacheReadTokens: 0
     cacheEligibleInputTokens: 122640
   2026-10-27:
-    sessionsEnded: 17
-    sessionsSucceeded: 17
-    promptTurns: 77
-    durationMs: 7911759
+    sessionsEnded: 20
+    sessionsSucceeded: 20
+    promptTurns: 90
+    durationMs: 9261691
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
     cacheReadTokens: 0
     cacheEligibleInputTokens: 0
   2026-10-28:
-    sessionsEnded: 2
-    sessionsSucceeded: 2
-    promptTurns: 2
-    durationMs: 653417
+    sessionsEnded: 4
+    sessionsSucceeded: 4
+    promptTurns: 4
+    durationMs: 1306834
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
     cacheReadTokens: 0
     cacheEligibleInputTokens: 0
   2026-10-29:
-    sessionsEnded: 1
-    sessionsSucceeded: 1
-    promptTurns: 2
-    durationMs: 476368
+    sessionsEnded: 4
+    sessionsSucceeded: 4
+    promptTurns: 16
+    durationMs: 2150634
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
